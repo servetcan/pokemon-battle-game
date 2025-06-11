@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "type": "Electric",
+    "image": "/images/pokemons/pikachu.png",
+    "basicAttack": {
+      "name": "Thunder Shock",
+      "power": 20
+    },
+    "abilities": [
+      {
+        "name": "Thunderbolt",
+        "power": 40
+      }
+    ],
+    "strongAgainst": ["Water", "Flying"],
+    "weakAgainst": ["Ground", "Grass"]
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "type": "Fire",
+    "image": "/images/pokemons/charmander.png",
+    "basicAttack": {
+      "name": "Ember",
+      "power": 20
+    },
+    "abilities": [
+      {
+        "name": "Flamethrower",
+        "power": 40
+      }
+    ],
+    "strongAgainst": ["Grass", "Ice", "Bug"],
+    "weakAgainst": ["Water", "Rock", "Ground"]
+  },
+  {
+    "id": 3,
+    "name": "Squirtle",
+    "type": "Water",
+    "image": "/images/pokemons/squirtle.png",
+    "basicAttack": {
+      "name": "Water Gun",
+      "power": 20
+    },
+    "abilities": [
+      {
+        "name": "Hydro Pump",
+        "power": 40
+      }
+    ],
+    "strongAgainst": ["Fire", "Ground", "Rock"],
+    "weakAgainst": ["Electric", "Grass"]
+  }
+] 

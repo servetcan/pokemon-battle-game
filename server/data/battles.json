@@ -1,0 +1,230 @@
+[
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Squirtle",
+    "winner": "opponent",
+    "turns": 4
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Squirtle",
+    "winner": "opponent",
+    "turns": 5
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 5
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 3
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 5
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Squirtle",
+    "winner": "opponent",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Squirtle",
+    "winner": "opponent",
+    "turns": 3
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 3
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Pikachu",
+    "winner": "opponent",
+    "turns": 4
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Squirtle",
+    "winner": "opponent",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 3
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Squirtle",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 2
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Squirtle",
+    "winner": "opponent",
+    "turns": 3
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 7
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Charmander",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Charmander",
+    "opponent": "Pikachu",
+    "winner": "player",
+    "turns": 6
+  },
+  {
+    "player": "Pikachu",
+    "opponent": "Squirtle",
+    "winner": "player",
+    "turns": 4
+  }
+]
